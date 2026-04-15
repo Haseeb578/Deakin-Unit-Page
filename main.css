@@ -16,7 +16,7 @@ p {
   font-family: Arial
 }
 div {
-  background-color: darkcyan;
+  background-color: rgb(38, 0, 255);
   text-align: right;
 }
 th, td {
